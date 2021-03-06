@@ -1,3 +1,3 @@
 # Yattecast
 
-https://hiroshimaeasyryo.github.io/crudecast.github.io/
+https://hiroshimaeasyryo.github.io/crudecast/
