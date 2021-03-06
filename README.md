@@ -1,3 +1,3 @@
 # Yattecast
 
-https://hiroshimaeasyryo.github.io/
+https://hiroshimaeasyryo/hiroshimaeasyryo.github.io/
